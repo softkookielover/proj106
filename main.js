@@ -1,0 +1,1 @@
+classifier = ml5.soundClassifier('https://teachablemachine.withgoogle.com/models/u02fOYRBx/model.json')
